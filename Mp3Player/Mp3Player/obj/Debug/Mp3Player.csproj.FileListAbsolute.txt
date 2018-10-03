@@ -1,0 +1,14 @@
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\msft_\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
